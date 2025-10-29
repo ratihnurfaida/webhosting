@@ -41,7 +41,6 @@ export function About() {
             Building the Future of Business
           </h2>
           <p className="text-lg text-muted-foreground max-w-2xl mx-auto">
-            For over a decade, we've been at the forefront of digital
             transformation, helping businesses navigate the complexities of
             modern technology and achieve sustainable growth.
           </p>

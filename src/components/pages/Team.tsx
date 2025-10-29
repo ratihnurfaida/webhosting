@@ -8,7 +8,7 @@ import { Button } from "../ui/button";
 export function Team() {
   const team = [
     {
-      name: "Sarah Johnson",
+      name: "Ratih Nurfaida",
       role: "CEO & Founder",
       bio: "Visionary leader with 15+ years in tech strategy and business development.",
       image:
