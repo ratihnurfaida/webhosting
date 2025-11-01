@@ -35,14 +35,13 @@ export function About() {
       <div className="container mx-auto px-4">
         <div className="text-center mb-12">
           <Badge variant="secondary" className="mb-4">
-            About TechCorp
+            Tentang UndanginId
           </Badge>
           <h2 className="text-3xl md:text-4xl mb-4">
-            Building the Future of Business
+            Setiap Momen, Kami Desain dengan Sepenuh Hati
           </h2>
           <p className="text-lg text-muted-foreground max-w-2xl mx-auto">
-            transformation, helping businesses navigate the complexities of
-            modern technology and achieve sustainable growth.
+            Menjadi platform undangan digital terdepan yang menghadirkan kemudahan, keindahan, dan pengalaman berkesan dalam setiap momen spesial.
           </p>
         </div>
 

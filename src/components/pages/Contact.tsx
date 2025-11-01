@@ -64,7 +64,7 @@ export function Contact() {
             Contact Us
           </Badge>
           <h2 className="text-3xl md:text-4xl mb-4">
-            Let's Start Building Together
+            Lets Start Building Together
           </h2>
           <p className="text-lg text-muted-foreground max-w-2xl mx-auto">
             Ready to transform your business? Get in touch with our team to
@@ -140,7 +140,7 @@ export function Contact() {
               <Card key={index}>
                 <CardContent className="p-6">
                   <div className="flex items-start space-x-4">
-                    <div className="w-10 h-10 bg-primary/10 rounded-lg flex items-center justify-center flex-shrink-0">
+                    <div className="w-10 h-10 bg-primary/10 rounded-lg flex items-center justify-center `flex-shrink-0`">
                       <info.icon className="h-5 w-5 text-primary" />
                     </div>
                     <div>
